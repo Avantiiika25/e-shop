@@ -6,8 +6,8 @@
 ## 🎥 Project Demo
 ✨ Experience E-Shop in Action!
 
-🚀 Live Demo (Replace with your live link)
-
+🚀 Live Demo 
+https://e-shop-zeta-murex.vercel.app/
 ---
 
 ## 🚀 Features
