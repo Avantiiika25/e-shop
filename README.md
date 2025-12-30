@@ -13,9 +13,8 @@ https://e-shop-zeta-murex.vercel.app/
 ## 🚀 Features
 
 🔐 User Login & Validation
-
 🛍️ Add to Cart / Wishlist Functionality
-📦 Product Listings with Category Filters
+📦 Product Listings with Category Filters 
 💬 Search Functionality
 🧾 Invoice PDF Download after Successful Order
 🧮 Coupon Code Discounts
