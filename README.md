@@ -83,7 +83,7 @@ Vitest - https://vitest.dev/🛠
 ## How to Run Locally (Clone + Install + Run)
 
 # 1. Clone the repository
-git clone https://github.com/your-username/e-shop.git
+git clone https://github.com/Avantiiika25/e-shop.git
 
 # 2. Navigate into the project directory
 cd e-shop
